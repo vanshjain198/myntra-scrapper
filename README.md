@@ -1,0 +1,1 @@
+A Python-based web scraping tool that automatically extracts product reviews from Myntra using Selenium and BeautifulSoup. It features a Streamlit UI for easy interaction and stores scraped data in MongoDB Atlas for persistent storage.
